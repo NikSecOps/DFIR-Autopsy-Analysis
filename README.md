@@ -34,7 +34,7 @@ This repository contains a **digital forensic analysis report** of a Windows XP 
 
 Due to GitHub storage limits, download the disk image here:
 
-[Download 4Dell Latitude CPi.E01](YOUR-EXTERNAL-LINK-HERE)
+[Download 4Dell Latitude CPi.E01](https://cfreds.nist.gov/all/NIST/HackingCase)
 
 ---
 ## 📸 Screenshots & Analysis Highlights
