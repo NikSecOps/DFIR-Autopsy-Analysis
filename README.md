@@ -49,4 +49,4 @@ This analysis is shared **solely for educational and skill demonstration purpose
 ---
 
 ### 🔗 **Contact**
-For questions or collaboration, connect via [LinkedIn](YOUR-LINKEDIN-HERE) or email at [YOUR-EMAIL-HERE].
+For questions or collaboration, connect via [LinkedIn](https://www.linkedin.com/in/nikhil-lobo-926179191/) .
