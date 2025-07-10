@@ -39,9 +39,28 @@ Due to GitHub storage limits, download the disk image here:
 ---
 ## 📸 Screenshots & Analysis Highlights
 
-Below are key screenshots from the forensic analysis to demonstrate practical tool usage and findings.
+### 🔍 Suspicious Executables Identified
 
-![screely-1752108261043](https://github.com/user-attachments/assets/efc80c9b-cf30-4538-9256-1ab6d518bb78)
+<img src="screenshots/image5_executables_analysis.png" width="800"/>
+
+*Autopsy displaying suspicious executables, including pwdump.exe for password dumping and STREAMFIND.EXE for detecting NTFS alternate data streams.*
+
+---
+
+### 🌐 Web History Analysis
+
+<img src="screenshots/image3_web_history_analysis.png" width="800"/>
+
+*Web history artifacts showing access to hacking-related websites, supporting findings of potential exploitation activities.*
+
+---
+
+### 📦 Archive Files Investigation
+
+<img src="screenshots/image9_archive_files_analysis.png" width="800"/>
+
+*Analysis of archive files to identify hidden malicious scripts or binaries.*
+
 
 ---
 ### 💡 **Notes**
