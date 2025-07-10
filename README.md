@@ -60,11 +60,9 @@ Due to GitHub storage limits, download the disk image here:
 
 ![screely-1752111782854](https://github.com/user-attachments/assets/8024b659-5811-4d58-a4a4-0cbf9012800e)
 
-
+*Analysis of archive files to identify hidden malicious scripts or binaries.*
 ![screely-1752111692910](https://github.com/user-attachments/assets/4c062c8f-6513-46a0-a61f-0059ede18cbb)
 
-
-*Analysis of archive files to identify hidden malicious scripts or binaries.*
 ---
 🔷 Conclusion
 
