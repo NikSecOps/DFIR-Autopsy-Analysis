@@ -37,7 +37,12 @@ Due to GitHub storage limits, download the disk image here:
 [Download 4Dell Latitude CPi.E01](YOUR-EXTERNAL-LINK-HERE)
 
 ---
+## 🔗 Screenshots
 
+
+![screely-1752108261043](https://github.com/user-attachments/assets/efc80c9b-cf30-4538-9256-1ab6d518bb78)
+
+---
 ### 💡 **Notes**
 This analysis is shared **solely for educational and skill demonstration purposes**. All data used is from publicly available DFIR practice images.
 
