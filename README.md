@@ -37,8 +37,9 @@ Due to GitHub storage limits, download the disk image here:
 [Download 4Dell Latitude CPi.E01](YOUR-EXTERNAL-LINK-HERE)
 
 ---
-## 🔗 Screenshots
+## 📸 Screenshots & Analysis Highlights
 
+Below are key screenshots from the forensic analysis to demonstrate practical tool usage and findings.
 
 ![screely-1752108261043](https://github.com/user-attachments/assets/efc80c9b-cf30-4538-9256-1ab6d518bb78)
 
