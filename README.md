@@ -70,7 +70,7 @@ Due to GitHub storage limits, download the disk image here:
 
 This forensic analysis demonstrated the systematic investigation of a Windows XP disk image using Autopsy 4.21.0, uncovering critical artifacts such as password dumping tools, network reconnaissance utilities, and suspicious web activity. The findings suggest the system was used for offensive security purposes, including potential penetration testing or unauthorized exploitation.
 
-Through this tutorial, we highlighted:
+Through this Lab, we highlighted:
 
     Effective identification of system artifacts, installed programs, and suspicious files
 
