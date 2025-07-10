@@ -65,7 +65,21 @@ Due to GitHub storage limits, download the disk image here:
 
 
 *Analysis of archive files to identify hidden malicious scripts or binaries.*
+---
+🔷 Conclusion
 
+This forensic analysis demonstrated the systematic investigation of a Windows XP disk image using Autopsy 4.21.0, uncovering critical artifacts such as password dumping tools, network reconnaissance utilities, and suspicious web activity. The findings suggest the system was used for offensive security purposes, including potential penetration testing or unauthorized exploitation.
+
+Through this tutorial, we highlighted:
+
+    Effective identification of system artifacts, installed programs, and suspicious files
+
+    The importance of prefetch, registry, and web history analysis in DFIR workflows
+
+    Structured reporting to support incident response, legal processes, and threat hunting
+
+Key Takeaway:
+🔑 A disciplined, methodical approach using open-source tools like Autopsy empowers digital forensics professionals to uncover actionable evidence efficiently and maintain the integrity of investigations.
 
 ---
 ### 💡 **Notes**
