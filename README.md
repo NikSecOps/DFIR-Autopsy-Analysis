@@ -43,19 +43,14 @@ Due to GitHub storage limits, download the disk image here:
 
 ![screely-1752110760416](https://github.com/user-attachments/assets/28ed776a-41f7-4b9f-a960-0edb0f012604)
 
-
-
-
-
-<img src="" width="800"/>
-
 *Autopsy displaying suspicious executables, including pwdump.exe for password dumping and STREAMFIND.EXE for detecting NTFS alternate data streams.*
 
 ---
 
 ### 🌐 Web History Analysis
 
-<img src="screenshots/image3_web_history_analysis.png" width="800"/>
+
+![screely-1752111211254](https://github.com/user-attachments/assets/d268f7a6-7802-41e4-896a-5ba429f39a17)
 
 *Web history artifacts showing access to hacking-related websites, supporting findings of potential exploitation activities.*
 
@@ -63,7 +58,11 @@ Due to GitHub storage limits, download the disk image here:
 
 ### 📦 Archive Files Investigation
 
-<img src="screenshots/image9_archive_files_analysis.png" width="800"/>
+![screely-1752111782854](https://github.com/user-attachments/assets/8024b659-5811-4d58-a4a4-0cbf9012800e)
+
+
+![screely-1752111692910](https://github.com/user-attachments/assets/4c062c8f-6513-46a0-a61f-0059ede18cbb)
+
 
 *Analysis of archive files to identify hidden malicious scripts or binaries.*
 
