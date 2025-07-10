@@ -43,6 +43,7 @@ Due to GitHub storage limits, download the disk image here:
 
 <img src="screenshots/image5_executables_analysis.png" width="800"/>
 ![screely-1752110760416](https://github.com/user-attachments/assets/418c4af1-7df6-47f2-8e9b-0e638311f2d1)
+![screely-1752110760416](https://github.com/user-attachments/assets/3129e3aa-7190-4937-b2f6-698b6b47c9ec)
 
 
 *Autopsy displaying suspicious executables, including pwdump.exe for password dumping and STREAMFIND.EXE for detecting NTFS alternate data streams.*
